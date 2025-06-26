@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋 I'm Dheeraj!
 
 I'm a passionate and driven Software Developer with a strong foundation in building dynamic and user-friendly web applications. I love bringing ideas to life through code and continuously exploring new technologies to enhance my craft.
 
@@ -27,8 +27,8 @@ Here's a glimpse into the technologies and languages I work with:
 
 I believe in continuous growth! Currently, I'm diving deeper into:
 
-* [Specify a technology or area you are currently learning, e.g., "Django for backend development," "Advanced React Hooks," "Cloud technologies like AWS/Azure," etc.]
-* [Another area of interest]
+* Cloud technologies like AWS, AI/ML, Advanced React Hooks.
+
 
 ---
 
