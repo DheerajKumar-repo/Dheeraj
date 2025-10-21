@@ -61,7 +61,7 @@ Helps ensure compliance and consistency across installations.
 
 ### 🐍 **Programming & Scripting**
 - Python, JavaScript, HTML, CSS  
-- C++, SQL, Shell Scripting
+- SQL
 
 ### 🧠 **Machine Learning & AI**
 - Supervised Learning, Deep Learning  
@@ -75,17 +75,15 @@ Helps ensure compliance and consistency across installations.
 
 ### ⚙️ **Frameworks & Libraries**
 - PyTorch, TensorFlow, Keras, torchvision  
-- Detectron2, YOLOv5/YOLOv8, OpenCV, NumPy, Matplotlib, Pandas  
+- OpenCV, NumPy, Matplotlib, Pandas  
 
 ### ☁️ **Cloud & Deployment**
-- Google Colab, AWS, Docker  
+- API-based deployment using Flask or FastAPI 
 - Model Exporting & Inference Pipelines  
-- API-based deployment using Flask or FastAPI  
 
 ### 🧩 **Web & App Integration**
 - Frontend: HTML, CSS, JavaScript  
-- Backend: Flask / FastAPI  
-- Interactive Demos with Streamlit & Gradio  
+- Backend: Flask / FastAPI   
 
 ---
 
