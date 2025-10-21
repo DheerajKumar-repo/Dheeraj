@@ -106,7 +106,7 @@ Helps ensure compliance and consistency across installations.
 ## 📫 Contact
 
 📧 **Email:** [bandladheerajkumar@gmail.com.com](mailto:bandladheerajkumar@gmail.com.com)   
-🌐 **Portfolio:** [github.com/DheerajBandla](https://github.com/DheerajBandla)
+🌐 **Portfolio:** [github.com/DheerajBandla](https://github.com/DheerajKumar-repo/Dheeraj)
 
 ---
 
