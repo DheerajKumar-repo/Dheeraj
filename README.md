@@ -1,71 +1,116 @@
-# Hi there 👋 I'm Dheeraj!
-
-I'm a passionate and driven Software Developer with a strong foundation in building dynamic and user-friendly web applications. I love bringing ideas to life through code and continuously exploring new technologies to enhance my craft.
-
----
-
-### 💻 Tech Stack & Skills
-
-Here's a glimpse into the technologies and languages I work with:
-
-* **Languages:**
-    * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> Python
-    * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> JavaScript
-* **Frontend:**
-    * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> HTML5
-    * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> CSS3
-    * <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> React
-* **Tools & Concepts:**
-    * <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> Git & GitHub
-    * Problem Solving
-    * Responsive Design
-    * Version Control
+<h1 align="center">👋 Hi, I'm Dheeraj Kumar</h1>
+<h3 align="center">Building intelligent computer vision systems that help machines see, understand, and make real-world decisions.</h3>
 
 ---
-
-### 🌱 I'm Currently Learning/Exploring
-
-I believe in continuous growth! Currently, I'm diving deeper into:
-
-* Cloud technologies like AWS, AI/ML, Advanced React Hooks.
-
-
----
-
-### 🚀 Projects
-
-Here are some of my notable projects. Feel free to explore my repositories for more!
-
-* **[Project Name 1]**
-    * A brief description of the project and what it does.
-    * **Tech Used:** [e.g., React, Python (Flask), HTML, CSS]
-    * [Link to Project Repo](https://github.com/YourUsername/Project1-Repo-Link)
-    * [Link to Live Demo (if available)](https://your-project1-demo-link.com)
-    * ![Project 1 Screenshot](https://via.placeholder.com/400x200/ADD8E6/000000?text=Project+1+Screenshot) * **[Project Name 2]**
-    * A brief description of the project and what it does.
-    * **Tech Used:** [e.g., Python (Django), JavaScript, HTML, CSS]
-    * [Link to Project Repo](https://github.com/YourUsername/Project2-Repo-Link)
-    * [Link to Live Demo (if available)](https://your-project2-demo-link.com)
-    * ![Project 2 Screenshot](https://via.placeholder.com/400x200/DDA0DD/000000?text=Project+2+Screenshot) ---
-
-### 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dheerajkumar0007&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Dheerajkumar0007 GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajkumar0007&theme=nord&hide_border=true" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajkumar0007&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-AI%20%26%20Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Object%20Detection-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Vision%20Language%20Models-purple?style=for-the-badge" />
 </p>
 
 ---
 
-### 💬 Connect with me!
-
-I'm always open to collaborating on interesting projects or discussing new technologies. Feel free to reach out!
-
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-linkedin-profile/)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio/Personal Website:** [Your Portfolio URL (if you have one)](https://your-portfolio-website.com)
+## 🧭 Quick Links
+- 🧠 [Projects](#-projects)
+- 💻 [Technical Skills](#-technical-skills)
+- 🚀 [Professional Summary](#-professional-summary)
+- 🏆 [Achievements](#-achievements--highlights)
+- 🧩 [Soft Skills](#-soft-skills)
+- 📫 [Contact](#-contact)
 
 ---
 
-⭐️ From [Your Name]
+## 🚀 Professional Summary
+
+I’m passionate about developing **AI-driven vision systems** that can detect, analyze, and understand real-world equipment — including GPS units, cables, signboards, and industrial components.
+
+My goal is to create solutions that:
+- Automate **field validation and inspection**
+- Improve **accuracy and operational efficiency**
+- Transform **raw images into intelligent insights**
+
+Each project I build focuses on bridging the gap between **human observation and machine intelligence**, making technology more **assistive, scalable, and reliable** for industries like telecom, infrastructure, and automation.
+
+---
+
+## 🧠 Projects
+
+### 🚀 GPS & Cable Detection
+AI system that automatically identifies and validates GPS and cable installations from field images — achieving **99.99% detection accuracy**.  
+This model helps telecom teams verify installations instantly, reducing manual review time by over 90%.  
+🔗 [View Project Repository](https://github.com/DheerajBandla/gps-cable-detection)
+
+---
+
+### 🔧 Blower Detection
+An industrial vision project designed to detect **blower assemblies** and identify incorrect installations or missing components using custom-trained AI models.  
+🔗 [View Project Repository](https://github.com/DheerajBandla/blower-detection)
+
+---
+
+### 🪧 Signboard Detection
+Smart detection system that automatically identifies and validates **signboards** on telecom towers and infrastructure sites.  
+Helps ensure compliance and consistency across installations.  
+🔗 [View Project Repository](https://github.com/DheerajBandla/signboard-detection)
+
+---
+
+## 💻 Technical Skills
+
+### 🐍 **Programming & Scripting**
+- Python, JavaScript, HTML, CSS  
+- C++, SQL, Shell Scripting
+
+### 🧠 **Machine Learning & AI**
+- Supervised Learning, Deep Learning  
+- Model Training, Evaluation & Optimization  
+- Vision-Language Models (BLIP, CLIP, LLaVA)
+
+### 👁️‍🗨️ **Computer Vision & Image Processing**
+- Object Detection, Image Segmentation, Image Classification  
+- Data Annotation (COCO, Pascal VOC)  
+- OpenCV, Image Augmentation, Feature Extraction  
+
+### ⚙️ **Frameworks & Libraries**
+- PyTorch, TensorFlow, Keras, torchvision  
+- Detectron2, YOLOv5/YOLOv8, OpenCV, NumPy, Matplotlib, Pandas  
+
+### ☁️ **Cloud & Deployment**
+- Google Colab, AWS, Docker  
+- Model Exporting & Inference Pipelines  
+- API-based deployment using Flask or FastAPI  
+
+### 🧩 **Web & App Integration**
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Flask / FastAPI  
+- Interactive Demos with Streamlit & Gradio  
+
+---
+
+## 🏆 Achievements & Highlights
+- ✅ Developed custom AI models with **99.99% accuracy** on real-world telecom datasets  
+- ✅ Automated visual validation tasks, reducing inspection time by **90%**  
+- ✅ Designed COCO-format datasets for multiple industrial use cases  
+- ✅ Built scalable model pipelines from **data collection → training → deployment**
+
+---
+
+## 🧩 Soft Skills
+- Problem Solving & Analytical Thinking  
+- Attention to Detail & Data Integrity  
+- Cross-Functional Collaboration  
+- Project Documentation & Reporting  
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [yourname@email.com](mailto:yourname@email.com)  
+💼 **LinkedIn:** [linkedin.com/in/dheerajkumar](https://linkedin.com/in/dheerajkumar)  
+🌐 **Portfolio:** [github.com/DheerajBandla](https://github.com/DheerajBandla)
+
+---
+
+<p align="center">⭐️ Thank you for visiting my profile — feel free to check out my repositories and connect with me!</p>
