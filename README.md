@@ -107,8 +107,7 @@ Helps ensure compliance and consistency across installations.
 
 ## 📫 Contact
 
-📧 **Email:** [yourname@email.com](mailto:yourname@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/dheerajkumar](https://linkedin.com/in/dheerajkumar)  
+📧 **Email:** [bandladheerajkumar@gmail.com.com](mailto:bandladheerajkumar@gmail.com.com)   
 🌐 **Portfolio:** [github.com/DheerajBandla](https://github.com/DheerajBandla)
 
 ---
